@@ -1,7 +1,9 @@
+package P1_2023_10;
+
 import java.util.*;
 import java.io.*;
 
-public class Solution2 {
+public class Solution1859 {
     public static void main(String args[]) throws Exception
     {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));

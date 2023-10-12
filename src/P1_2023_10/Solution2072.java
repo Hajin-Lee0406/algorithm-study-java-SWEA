@@ -1,7 +1,8 @@
+package P1_2023_10;
 
 import java.util.Scanner;
 
-public class Main {
+public class Solution2072 {
     public static void main(String[] args) {
         // 테스트 케이스의 개수 T
         Scanner sc = new Scanner(System.in);
